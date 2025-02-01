@@ -1,0 +1,1 @@
+For this study, we relied on one publicly available dataset. This dataset can be an invaluable tool for applying AI in dermatology and other areas of medical diagnosis. The dataset has been collected from Kaggle [1] and includes pictures of 2 classes: Benign and Malignant
